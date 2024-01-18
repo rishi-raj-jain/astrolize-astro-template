@@ -4,8 +4,16 @@ Astrolize is a free starter astro website template for saas, startups, marketing
 
 This Free Template is brought to you by [FabForm](https://fabform.io)
 
-Here is the [Astrolize Demo](astrolize.surge.sh)
+Check out the [Astrolize Demo](https://astrolize.surge.sh)
 
+
+## Features 
+
+* Astro v3
+* Tailwind CSS
+* Mobile Responsive
+* Working Contact Page
+* Content Collections
 
 ## Installation
 
@@ -16,9 +24,9 @@ Alternatively, you can clone the project directly from this repo to your local s
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/surjithctly/astrolize.git myProjectName
+git clone https://github.com/astrolize-fabform/astrolize-astro-template.git myProjectName
 # or
-git clone https://github.com/surjithctly/astrolize.git .
+git clone https://github.com/astrolize-fabform/astrolize-astro-template.git .
 ```
 
 The `.` will clone it to the current directory so make sure you are inside your project folder first.
@@ -91,5 +99,4 @@ TailwindCSS is already configured in this repo, so you can start using it withou
 Feel free to check out [Astro Docs](https://docs.astro.build) or jump into our [Discord Chat](https://web3templates.com/discord).
 
 [![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
-# astrolize-astro-template
 # astrolize-astro-template
