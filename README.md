@@ -4,6 +4,7 @@ Astrolize is a free starter astro website template for saas, startups, marketing
 
 This Free Template is brought to you by [FabForm](https://fabform.io)
 
+Here is the [Astrolize Demo](astrolize.surge.sh)
 
 
 ## Installation
